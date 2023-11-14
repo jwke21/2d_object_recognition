@@ -220,7 +220,6 @@ void grassfire(const cv::Mat& src, cv::Mat& dst) {
   int R = src.rows, C = src.cols;
 
   // forward pass
-  // credit: Bruce Maxwell's in class example
   for (int i = 0; i < R; i++) {
     for (int j = 0; j < C; j++) {
       // check if foreground
