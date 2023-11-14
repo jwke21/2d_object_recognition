@@ -1,0 +1,9 @@
+# imgs dir 
+imgs/
+
+# all binaries
+bin/
+
+# all object files
+obj/
+*.o
