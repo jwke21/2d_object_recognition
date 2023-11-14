@@ -1,16 +1,14 @@
-# Project 3: Real-Time 2-D Object Recognition
+# Real-Time 2-D Object Recognition
 
-<b>Note</b>: Report can be found in the `report/` directory under the name `jake_van_meter_p3_report.pdf`.
+## Reference Links
 
-## Links
-
-- <a href="https://drive.google.com/file/d/1-QB64vLhyfyzqlxHiT6A0Em2k4CmoPLx/view?usp=drive_link">Video demo (Part 9 of report)</a>
+- <a href="https://drive.google.com/file/d/1-QB64vLhyfyzqlxHiT6A0Em2k4CmoPLx/view?usp=drive_link">Video demo</a>
 
 - <a href="https://www.researchgate.net/publication/224146066_Analysis_of_Hu's_moment_invariants_on_image_scaling_and_rotation">"Analysis
 of Hu's moment invariants on image scaling and rotation"</a>
  (just saving this paper for future reference)
 
-## Operating System and IDE
+## Tested Operating System and IDE
 
 - <b>Operating System</b>: Ubuntu 22.04 (Jammy Jellyfish)
 
@@ -28,12 +26,3 @@ capture device you're using.
 directories.
 
 4. Run `./bin/vidDisplay` to run the program.
-
-## Testing Extensions
-
-N/A (past extension acceptance deadline)
-
-## Time Travel Days
-
-None
-
